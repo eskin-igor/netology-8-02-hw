@@ -17,11 +17,17 @@
 4. Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-1-1.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-1-2.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-2-1.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-3.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-4-1.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-4-2.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-4-3.png)
 
 ### Задание 2
@@ -36,9 +42,13 @@
 
 1. Создайте новый проект pipeline.
 2. Перепишите сборку из задания 1 на declarative в виде кода.
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/2-1.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/2-2.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/2-3.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/2-4.png)
 
 ### Задание 3
@@ -57,10 +67,17 @@
 2. Создайте raw-hosted репозиторий.
 3. Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
 4. Загрузите файл в репозиторий с помощью jenkins.
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/3-1.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/3-2.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/3-3.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/3-4-1.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/3-4-2.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/3-4-3.png)
+
 ![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/3-4-4.png)
