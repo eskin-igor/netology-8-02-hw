@@ -1,4 +1,4 @@
-# Решение на ДЗ "8.2 Что такое DevOps. СI/СD" - Еськин Игорь
+## Решение на ДЗ "8.2 Что такое DevOps. СI/СD" - Еськин Игорь
 
 ### Задание 1
 Что нужно сделать:
@@ -16,8 +16,8 @@
 3. Используя свой аккаунт на GitHub, сделайте себе форк репозитория. В этом же репозитории находится дополнительный материал для выполнения ДЗ.
 4. Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 
-(https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-1-1.png)
-(https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-1-2.png)
+![](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-1-1.png)
+![ghbvth](https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-1-2.png)
 (https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-2-1.png)
 (https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-3.png)
 (https://github.com/eskin-igor/netology-8-02-hw/blob/main/screenshots_8-02/1-4-1.png)
